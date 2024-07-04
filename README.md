@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kein Pyi Si</h1>
+<h1 align="center">Hi 👋, I'm Dan Demos</h1>
 <h3 align="center">A Hobbyist Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keinpyisi&label=Profile%20views&color=0e75b6&style=flat" alt="keinpyisi" /> </p>
