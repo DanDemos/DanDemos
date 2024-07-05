@@ -44,8 +44,3 @@ LinkedIn: https://www.linkedin.com/in/dan-demo-aba827218
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dandemos&" alt="dandemos" /></p>
 
-
-<p align="center">
-<a href="http://www.github.com/dandemos"><img src="https://github-readme-stats.vercel.app/api?username=dandemos&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
-<a href="http://www.github.com/dandemos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dandemos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </p>
