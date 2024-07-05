@@ -1,3 +1,5 @@
+<img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<br>
 <h1 align="center">Hi 👋, I'm DanDemo</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
@@ -38,9 +40,42 @@ LinkedIn: https://www.linkedin.com/in/dan-demo-aba827218
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DanDemo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DanDemo" /></a><a href="https://ko-fi.com/dandemo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dandemo" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandemos&show_icons=true&locale=en&layout=compact" alt="dandemos" /></p>
+<p align="center">
+  <a href="https://github.com/dandemos">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandemos&theme=radical&border=7F3FBF&background=0D1117" alt="Dan Demo's GitHub streak"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dandemos&show_icons=true&locale=en" alt="dandemos" /></p>
+<p align="center">
+  <a href="https://github.com/dandemos">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandemos&theme=radical" alt="Dan Demo's GitHub Contribution"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dandemos&" alt="dandemos" /></p>
+<a> 
+    <a href="https://github.com/dandemos"><img alt="Dan Demo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dandemos&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/dandemos"><img alt="Dan Demo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dandemos&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Dan Demo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dandemos&custom_title=Dan%20Demo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<div align="center">
+
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="[https://deri.my.id](https://dandemos.github.io/)" target="_blank">Dan Demo</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
