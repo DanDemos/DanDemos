@@ -1,11 +1,13 @@
-<p align="center"> <img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> </p>
-<br>
 <h1 align="center">Hi 👋, I'm DanDemo</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dandemos&label=Profile%20views&color=0e75b6&style=flat" alt="dandemos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dandemos" alt="dandemos" /></a> </p>
+
+<br>
+<p align="center"> <img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> </p>
+<br>
 
 - 👋 Hi, I’m @DanDemo, a passionate and versatile frontend developer based in Myanmar. With a solid background in JavaScript, React, and React Native, I thrive on building intuitive and engaging user interfaces that bring ideas to life.
 - 🚀 Over the years, I've had the opportunity to work on a diverse range of projects, from e-commerce websites and mobile apps to arcade game platforms and HR management systems. My experience spans across both frontend and full-stack development, allowing me to tackle challenges with a holistic perspective.
